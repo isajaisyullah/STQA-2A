@@ -1,17 +1,35 @@
+# STQA 2A 2023
+- Isa
+- Akyun
+- Axel
+- David
+- Danang
+  
 # pawn_book
+Flutter project-book rent management
 
-A new Flutter project.
+## Project Setup
 
-## Getting Started
+-  Clone the project
+    ```bash
+    git clone https://github.com/isajaisyullah/STQA-2A.git
+    ```
 
-This project is a starting point for a Flutter application.
+-   Go to the new project folder.
+    ```bash
+    cd {new-project-folder}
+    ```
 
-A few resources to get you started if this is your first Flutter project:
-
-## 1. Flowchart
-
-![Alt text](imgperancangan/flowchartspawnbook.png)
-
-## 2. Usecase
-
-![Alt text](imgperancangan/usecasepawnbook.png)
+-   Flutter get packages and run
+    ```bash
+    flutter pub get
+    ```
+    
+    ```bash
+    flutter build apk
+    ```
+    ```bash
+    flutter run
+    ```
+    
+    or just open it in VSCode
