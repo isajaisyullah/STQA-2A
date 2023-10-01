@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "364010967741",
+    "project_id": "pawnbook-6e57a",
+    "storage_bucket": "pawnbook-6e57a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364010967741:android:3e48e6ed960830e6e21dd4",
+        "android_client_info": {
+          "package_name": "com.example.pawn_book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364010967741-c75iddbbs0789n39968m956kjufd3dqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXRM_v3Zp1xNZKwIRFXRAsLGcx0_ILSj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364010967741-c75iddbbs0789n39968m956kjufd3dqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
